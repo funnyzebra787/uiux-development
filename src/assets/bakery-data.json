@@ -1,1 +1,109 @@
+[
+  {
+    "name": "Tesla Model S",
+    "price": 3,
+    "length": 3,
+    "type": "SUV",
+    "fuel": "Gas",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
 
+  {
+    "name": "Tesla Model A",
+    "price": 10,
+    "length": 10,
+    "type": "Sedan",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model B",
+    "price": 2,
+    "length": 2,
+    "type": "Sedan",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model C",
+    "price": 5,
+    "length": 5,
+    "type": "SUV",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model D",
+    "price": 4,
+    "length": 4,
+    "type": "Sedan",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model E",
+    "price": 6,
+    "length": 6,
+    "type": "Sedan",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model F",
+    "price": 7,
+    "length": 7,
+    "type": "Sedan",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model G",
+    "price": 8,
+    "length": 8,
+    "type": "Sedan",
+    "fuel": "Gas",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model H",
+    "price": 9,
+    "length": 9,
+    "type": "Sedan",
+    "fuel": "Gas",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model I",
+    "price": 1,
+    "length": 1,
+    "type": "SUV",
+    "fuel": "Gas",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model J",
+    "price": 11,
+    "length": 11,
+    "type": "SUV",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  },
+
+  {
+    "name": "Tesla Model K",
+    "price": 12,
+    "length": 12,
+    "type": "SUV",
+    "fuel": "Electric",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2022-tesla-model-s-plaid-mmp-1-1628541250.png?crop=0.603xw:1.00xh;0.101xw,0&resize=640:*"
+  }
+]
