@@ -12,3 +12,6 @@ This app has great usability and layout, with three distinct columns that are ea
 have the attributes spread out to the left and to the right, and it is not all scrunched together. This way, the user can
 easily see the differences in attributes such as length, price, and fuel type.
 
+Link to deployed page:
+https://funnyzebra787.github.io/uiux-development/
+
